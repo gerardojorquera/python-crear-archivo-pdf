@@ -1,5 +1,18 @@
-# Crear un pdf con texto, logo y firma
+# Generador Dinámico de PDFs con Logo y Firma
 
-Script que crea un documento en formato pdf, el cual tiene la imagen de un logo de empresa, distintos textos alineados a la izquierda, centro y derecha y finaliza con una firma
+## 📝 Descripción
+Este script automatiza la creación de documentos en formato PDF de manera estructurada y profesional. Permite integrar elementos visuales clave como el logotipo de una empresa, formatear textos con diferentes alineaciones (izquierda, centro y derecha) e incorporar una firma digital o manuscrita en la sección final del documento.
 
-Este proyecto se puede construir en una app que leer un archivo excel u otro origen de datos y podria generar facturas, certificados o cualquier otro tipo de documento pdf de forma masiva y ahorrando manualidad o tiempo a algun equipo de trabajo
+## 🎯 Objetivo
+El objetivo principal es generar documentos PDF personalizados a partir de una plantilla base. El script posiciona dinámicamente cada elemento (imagen de marca, bloques de texto y firmas) en coordenadas o secciones específicas del documento, asegurando un diseño limpio, estandarizado y profesional en cada exportación.
+
+## 🚀 Aplicación y Casos de Uso
+Esta herramienta funciona como el motor central para soluciones de automatización masiva. Al conectarse a un origen de datos (como archivos Excel, CSV, bases de datos o APIs) y combinarse con una plantilla de diseño, permite transformar conjuntos de información en documentos listos para entregar.
+
+**Casos de uso principales:**
+* **Facturación masiva:** Generación de facturas o recibos para clientes finales.
+* **Recursos Humanos:** Creación de contratos laborales, constancias de pago o certificados.
+* **Educación y Eventos:** Emisión automática de diplomas y certificados de asistencia.
+* **Legal:** Redacción automatizada de acuerdos, anexos y notificaciones.
+
+**Impacto:** Elimina las tareas manuales de copiado y pegado, reduce drásticamente el error humano y optimiza el tiempo de los equipos de trabajo al procesar cientos de documentos en pocos segundos.
